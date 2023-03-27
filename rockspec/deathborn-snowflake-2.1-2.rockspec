@@ -1,5 +1,5 @@
-package = "DeathBorn-snowflake"
-version = "2.1-1"
+package = "deathborn-snowflake"
+version = "2.1-2"
 
 source = {
 	url = "git://github.com/DeathBorn/lua-snowflake.git",
