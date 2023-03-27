@@ -1,6 +1,8 @@
 lua-snowflake
 =============
 
+NOTE: This is fixed http://github.com/api7/lua-snowflake
+
 An implementation of [Snowflake](https://blog.twitter.com/2010/announcing-snowflake) for Lua. Snowflake is an algorithm
 which supports ordered, distributed id generation. 
 

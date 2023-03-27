@@ -1,20 +1,20 @@
-package = "api7-snowflake"
-version = "2.0-1"
+package = "DeathBorn-snowflake"
+version = "2.1-1"
 
 source = {
-	url = "git://github.com/api7/lua-snowflake.git",
-	tag = "v2.0",
+	url = "git://github.com/DeathBorn/lua-snowflake.git",
+	tag = "v2.1",
 }
 
 description = {
 	summary = "An implementation of a distributed ID generator, similar to Snowflake by Twitter",
-	homepage = "http://github.com/api7/lua-snowflake",
+	homepage = "http://github.com/DeathBorn/lua-snowflake",
 	license = "MIT",
-	maintainer = "dickens7",
+	maintainer = "DeathBorn",
 }
 
 dependencies = {
-	"lua >= 5.1",
+	"lua >= 5.4",
 }
 
 build = {
